@@ -1,4 +1,4 @@
-var server = "https://hk68t1mgna.execute-api.us-east-1.amazonaws.com/kotiki";
+var server = "https://jv8b21j5ud.execute-api.us-east-1.amazonaws.com/kotiki";
 
 function serverRequest(data) {
   $.ajax({
